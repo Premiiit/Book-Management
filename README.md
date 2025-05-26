@@ -79,7 +79,7 @@ JWT_SECRET=your_jwt_secret_key
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Prem
 
 ---
 
