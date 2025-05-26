@@ -27,7 +27,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bookverse.git
+git clone [https://github.com/your-username/bookverse.git](https://github.com/Premiiit/Book-Management.git)
 cd bookverse
 ```
 
